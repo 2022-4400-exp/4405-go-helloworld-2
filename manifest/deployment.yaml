@@ -15,5 +15,5 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: katudon/go-helloworld-2/6aea656d8591322c01520afe754b151cb915e17f
+      - image: katudon/go-helloworld-2
         name: go-helloworld-2
